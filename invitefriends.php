@@ -117,7 +117,6 @@ function inviteFriends () {
    <li>13 suite tickets - Bees vs River Cats, June 14th at 7:05 pm</li>
   <li>One submission allowed per day. Duplicate submissions will be removed.</li>
  <li>Winners will be notified through e-mail.</li>
- <li>By entering contest you are giving permission to MediaOne of Utah to send you e-mails about the DailyDeal.  If at anytime you wish to not receive these e-mails you may choose to opt-out.</li>
  </ul>
 
  </div>
